@@ -29,7 +29,7 @@ export function Hero() {
                 A project by Open Avenues completed by [Your Name Here]
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">View SUMO config files on GitHub</Button>
+                <Button href="https://github.com/yuya-fujimoto/oaf-traffic-simulation">View SUMO config files on GitHub</Button>
               </div>
             </div>
           </div>

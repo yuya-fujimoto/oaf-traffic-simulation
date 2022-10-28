@@ -36,6 +36,7 @@ Seemingly small changes by a single car in the entire traffic can cause a snow b
 
 [![Youtube](https://res.cloudinary.com/marcomontalbano/image/upload/v1666942183/video_to_markdown/images/youtube--Rryu85BtALM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Rryu85BtALM "Youtube")
 
+Source: [BBC One Show (YouTube)](https://www.youtube.com/watch?v=Rryu85BtALM)
 
 ### Predicting Traffic​
 Before engaging in intensive infrastructure projects such as building new roads, adding lanes, traffic lights, etc. — it is important to have realistic simulations of traffic flows so that the proposed projects have the best chance of succeeding in alleviating traffic. 
@@ -45,13 +46,19 @@ The situation gets more complicated when integrating major events such as concer
 
 ![congestion](https://bdc2020.o0bc.com/wp-content/uploads/2022/02/OXC4TYX7PAI6TPHHT676KW2KHE-620a4698f23a2-768x432.jpg?width=900)
 
+Image Source: [Boston.com](https://boston.com)
+
 ---
 
 ## SUMO
 
+### What is SUMO?
 "**S**imulation of **U**rban **MO**bility" (SUMO) is an open source, highly portable, microscopic and continuous traffic simulation software. We used SUMO in this project because it is flexible and supports all basic features.
 
 ![sumo](https://raw.githubusercontent.com/eclipse/sumo/main/docs/web/docs/images/sumo-logo.svg)
+
+Image Source: [SUMO](https://sumo.dlr.de/)
+
 ### Features
 - Demand Generation
   - Use traffic counts on streets and junctions, origin-destination-matrices or virtual population models to generate realistic demand profiles.
