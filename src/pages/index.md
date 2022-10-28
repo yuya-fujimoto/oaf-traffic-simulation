@@ -6,6 +6,19 @@ description: A project by Open Avenues completed by [Your Name Here]
 Predict when and how traffic congestion occurs and visualize it in SUMO. 
 ---
 
+## Key Technologies
+
+{% quick-links %}
+
+{% callout title="Traffic Simulation" /%}
+{% callout title="Visualization" /%}
+{% callout title="Python" /%}
+{% callout title="SUMO" /%}
+{% callout title="OpenStreetMap" /%}
+{% callout title="NetEdit" /%}
+
+{% /quick-links %}
+
 ## Background
 
 ### Congestion Costs U.S. Cities Billions Every Year​
