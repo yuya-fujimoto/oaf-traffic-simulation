@@ -42,6 +42,17 @@ const tags = {
       href: { type: String },
     },
   },
+  video: {
+    attributes: {
+      src: { type: String },
+    },
+    render: ({ src, alt = '' }) => (
+      <video alt={alt} controls>
+        <source src={src} type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    ),
+  },
 }
 
 export default tags

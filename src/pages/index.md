@@ -6,13 +6,6 @@ description: A project by Open Avenues completed by [Your Name Here]
 Predict when and how traffic congestion occurs and visualize it in SUMO. 
 ---
 
-## About Open Avenues (OA)​
-
-Open Avenues is an educational nonprofit that offers students to participate in industry projects led by experts from high-growth STEM companies.
-
-
----
-
 ## Background
 
 ### Congestion Costs U.S. Cities Billions Every Year​
@@ -28,8 +21,8 @@ Source: [Statistica](https://www.statista.com/chart/21085/annual-economic-losses
 Understanding the emergence of traffic congestion in the most simple case — a single lane road, is challenging.
 Seemingly small changes by a single car in the entire traffic can cause a snow ball effect.
 
-[YouTube](https://www.youtube.com/watch?v=Rryu85BtALM)​
-[![single lane traffic](https://img.youtube.com/vi/Rryu85BtALM/0.jpg)](https://www.youtube.com/watch?v=Rryu85BtALM)
+[![Youtube](https://res.cloudinary.com/marcomontalbano/image/upload/v1666942183/video_to_markdown/images/youtube--Rryu85BtALM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Rryu85BtALM "Youtube")
+
 
 ### Predicting Traffic​
 Before engaging in intensive infrastructure projects such as building new roads, adding lanes, traffic lights, etc. — it is important to have realistic simulations of traffic flows so that the proposed projects have the best chance of succeeding in alleviating traffic. 
