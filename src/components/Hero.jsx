@@ -25,7 +25,7 @@ export function Hero() {
               <p className="inline bg-gradient-to-r from-indigo-500 via-sky-900 to-indigo-500 bg-clip-text font-display text-5xl tracking-tight text-transparent">
                 Simulate and Visualize Real World Traffic Data
               </p>
-              <p className="mt-3 text-2xl tracking-tight text-slate-400">
+              <p className="mt-3 text-2xl tracking-tight text-slate-600">
                 A project by Open Avenues completed by [Your Name Here]
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
